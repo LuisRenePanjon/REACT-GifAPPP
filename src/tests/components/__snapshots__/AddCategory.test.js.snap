@@ -4,6 +4,7 @@ exports[`Test in <AddCategory/> should correctly display the component 1`] = `
 <form
   onSubmit={[Function]}
 >
+  <p />
   <input
     onChange={[Function]}
     placeholder="Ingrese una categoria"
